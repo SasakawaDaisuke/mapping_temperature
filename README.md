@@ -1,1 +1,2 @@
 # mapping_temperature
+取得した水温と座標をブラウザで表示
